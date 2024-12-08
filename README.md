@@ -1,2 +1,3 @@
 # submodule-rollback-checker-submodule
-1
+* 1
+* 2
